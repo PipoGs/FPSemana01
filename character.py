@@ -1,20 +1,14 @@
 
 character_number1 = str(input("What is the first Character name? "))
-
 health_number1=int(input("Choose the Health points: "))
-
 level_number1=int(input("Choose Character level: "))
 
 character_number2 = str(input("What is the second Character name? "))
-
 health_number2=int(input("Choose the Health points: "))
-
 level_number2=int(input("Choose Character level: "))
 
 character_number3 = str(input("What is the third Character name? "))
-
 health_number3=int(input("Choose the Health points: "))
-
 level_number3=int(input("Choose Character level: "))
 
 chr_data=[
